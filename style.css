@@ -1,0 +1,25 @@
+.jumbotron {
+  background-image: url(image/sunset.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  background-attachment: fixed;
+  text-align: center;
+  padding-top: 70px;
+}
+h1 {
+  font-family: sans-serif;
+}
+.jumbotron p {
+  font-size: 40px;
+  color: black;
+  font-family: roboto;
+}
+.jumbotron .btn {
+  background-color: #f05;
+  border: none;
+}
+.img-thumbnail {
+  height: 100px;
+  width: 100;
+}
